@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex7_DataStructCollectionLists\Ex7_DataStructCollectionLists\bin\Debug\Ex7_DataStructCollectionLists.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex7_DataStructCollectionLists\Ex7_DataStructCollectionLists\bin\Debug\Ex7_DataStructCollectionLists.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex7_DataStructCollectionLists\Ex7_DataStructCollectionLists\bin\Debug\Ex7_DataStructCollectionLists.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex7_DataStructCollectionLists\Ex7_DataStructCollectionLists\obj\Debug\Ex7_DataStructCollectionLists.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex7_DataStructCollectionLists\Ex7_DataStructCollectionLists\obj\Debug\Ex7_DataStructCollectionLists.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex7_DataStructCollectionLists\Ex7_DataStructCollectionLists\obj\Debug\Ex7_DataStructCollectionLists.pdb

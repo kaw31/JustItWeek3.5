@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex8_DataStructDictionaries\Ex8_DataStructDictionaries\bin\Debug\Ex8_DataStructDictionaries.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex8_DataStructDictionaries\Ex8_DataStructDictionaries\bin\Debug\Ex8_DataStructDictionaries.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex8_DataStructDictionaries\Ex8_DataStructDictionaries\bin\Debug\Ex8_DataStructDictionaries.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex8_DataStructDictionaries\Ex8_DataStructDictionaries\obj\Debug\Ex8_DataStructDictionaries.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex8_DataStructDictionaries\Ex8_DataStructDictionaries\obj\Debug\Ex8_DataStructDictionaries.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex8_DataStructDictionaries\Ex8_DataStructDictionaries\obj\Debug\Ex8_DataStructDictionaries.pdb

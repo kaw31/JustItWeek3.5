@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex9_ErrorHandlingExample\Ex9_ErrorHandlingExample\bin\Debug\Ex9_ErrorHandlingExample.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex9_ErrorHandlingExample\Ex9_ErrorHandlingExample\obj\Debug\Ex9_ErrorHandlingExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex9_ErrorHandlingExample\Ex9_ErrorHandlingExample\bin\Debug\Ex9_ErrorHandlingExample.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex9_ErrorHandlingExample\Ex9_ErrorHandlingExample\bin\Debug\Ex9_ErrorHandlingExample.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex9_ErrorHandlingExample\Ex9_ErrorHandlingExample\obj\Debug\Ex9_ErrorHandlingExample.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex9_ErrorHandlingExample\Ex9_ErrorHandlingExample\obj\Debug\Ex9_ErrorHandlingExample.pdb

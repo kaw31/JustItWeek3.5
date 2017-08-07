@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex10_ErrorHandlingExercise\Ex10_ErrorHandlingExercise\bin\Debug\Ex10_ErrorHandlingExercise.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex10_ErrorHandlingExercise\Ex10_ErrorHandlingExercise\bin\Debug\Ex10_ErrorHandlingExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex10_ErrorHandlingExercise\Ex10_ErrorHandlingExercise\bin\Debug\Ex10_ErrorHandlingExercise.pdb
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex10_ErrorHandlingExercise\Ex10_ErrorHandlingExercise\obj\Debug\Ex10_ErrorHandlingExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex10_ErrorHandlingExercise\Ex10_ErrorHandlingExercise\obj\Debug\Ex10_ErrorHandlingExercise.exe
+C:\Users\student\Desktop\Kevin\Week3-C#\Ex10_ErrorHandlingExercise\Ex10_ErrorHandlingExercise\obj\Debug\Ex10_ErrorHandlingExercise.pdb
